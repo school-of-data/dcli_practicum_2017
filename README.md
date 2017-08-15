@@ -20,7 +20,7 @@ The DCL Professional Practicum training is a four session programme organised by
 ## Session Outline
 Date | Session Number | Description
 ------ | ------------- | -----------
-15-Aug-17 | Session 1 | Data Pipeline & Introduction to Programming
+15-Aug-17 | Session 1 | [Data Pipeline & Introduction to Programming](/session1)
 17-Aug-17 | Session 2 | Data Scraping
 22-Aug-17 | Session 3 | Data Validation & Cleaning
 29-Aug-17 | Session 4 | Data Visualisation
