@@ -4,7 +4,7 @@ The DCL Professional Practicum training is a four session programme organised by
 ## Training Details
 - Session Facilitator: David Selassie Opoku
 - In-person sessions: 1 - 5 pm
-- Online Help sessions:
+- Online Help sessions: Wednesdays, Thursdays & Fridays
 
 ## Overview
 - [Training Progress](#training-in-progress)
@@ -20,18 +20,10 @@ The DCL Professional Practicum training is a four session programme organised by
 ## Session Outline
 Date | Session Number | Description
 ------ | ------------- | -----------
-15-Aug-17 | Session 1 | Introduction to Open Data & Python
+15-Aug-17 | Session 1 | Data Pipeline & Introduction to Programming
 17-Aug-17 | Session 2 | Data Scraping
 22-Aug-17 | Session 3 | Data Validation & Cleaning
 29-Aug-17 | Session 4 | Data Visualisation
 
-
-#### Session 1: Introduction to Python
-
-#### Session 2: Data Scraping
-
-#### Session 3: Data Validation & Cleaning
-
-#### Session 4: Data Visualisation
 
 ## Readings
