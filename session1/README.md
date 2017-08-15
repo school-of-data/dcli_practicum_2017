@@ -25,9 +25,9 @@ Duration | Activity | Resources | Responsible
 2:20 – 2:40 pm | The data pipeline with R | R, Rstudio | Facilitator
 2:40 – 2:50 pm | Feedback on Python and R process | Post-Its | All
 2:50 – 3:00 pm | Break | Refreshments | All
-3:00 – 3:45 pm | Programming Lab: Self-learning | [Data Carpentry Intro to R](http://www.datacarpentry.org/R-ecology-lesson/01-intro-to-r.html) | Fellows
-3:45 – 4:15 pm | Programming Lab: Peer-learning | [Data Carpentry Intro to R](http://www.datacarpentry.org/R-ecology-lesson/01-intro-to-r.html) | Fellows
-4:15 – 4:45 pm | Programming Lab: Facilitated Learning | [Data Carpentry Intro to R](http://www.datacarpentry.org/R-ecology-lesson/01-intro-to-r.html) | All
+3:00 – 3:45 pm | Programming Lab: Self-learning | [Data Carpentry Intro to R](http://www.datacarpentry.org/R-ecology-lesson/01-intro-to-r.html), [Data Carpentry Intro to Python](http://www.datacarpentry.org/python-ecology-lesson/00-short-introduction-to-Python/) | Fellows
+3:45 – 4:15 pm | Programming Lab: Peer-learning | [Data Carpentry Intro to R](http://www.datacarpentry.org/R-ecology-lesson/01-intro-to-r.html), [Data Carpentry Intro to Python](http://www.datacarpentry.org/python-ecology-lesson/00-short-introduction-to-Python/) | Fellows
+4:15 – 4:45 pm | Programming Lab: Facilitated Learning | [Data Carpentry Intro to R](http://www.datacarpentry.org/R-ecology-lesson/01-intro-to-r.html), [Data Carpentry Intro to Python](http://www.datacarpentry.org/python-ecology-lesson/00-short-introduction-to-Python/) | All
 4:45 – 5:00 pm | Review and Closing | Learning plan | Facilitator
 
 ## Resources
