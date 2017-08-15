@@ -1,4 +1,4 @@
-<img src="/images/schoolofdata.jpg" width=300/>
+<img src="/images/scoda_logo.png" width=300/>
 
 # DCLI Professional Practicum
 The DCLI Professional Practicum training is a four session programme organised by [IREX](https://irex.org/) over the course of 3 weeks to provide fellows with foundational technical skills to effectively work with data. The training is designed and delivered by [School of Data](https://www.schoolofdata.org).
