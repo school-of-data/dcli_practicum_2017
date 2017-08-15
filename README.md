@@ -8,6 +8,7 @@ Four Washington Mandela Fellows have been selected to take part in this training
 
 ## Overview
 - [Training Details](#training-details)
+- [Learning Model](#learning-model)
 - [Session Outline](#session-outline)
 - [Reference Books](#reference-books)
 - [Online Resources](#online-resources)
@@ -17,15 +18,14 @@ Four Washington Mandela Fellows have been selected to take part in this training
 - In-person sessions: 1 - 5 pm
 - Online Help sessions: Wednesdays, Thursdays & Fridays
 
+## Learning Model
 The training will expose fellows to relevant data skills needed to continue their personal learning after practicum. This will be achieved through the following:
 
-- **Overview of the data process**
+#### Overview of the data process
+This will be done through the School of Data Pipeline framework which aims to walk participants through the steps/phases of identifying a question or challenge to developing the needed insight or solution for intended users.
 
-    This will be done through the School of Data Pipeline framework which aims to walk participants through the steps/phases of identifying a question or challenge to developing the needed insight or solution for intended users.
-
-- **Four-stage Learning Model**
-
- This model is adapted from the [African Leadership University Learning Model](https://alueducation.com/about/our-learning-model/) which aims to take learners through discovery of new concepts, self-, peer- and facilitated-group learning. Below is a breakdown of this approach:
+#### Four-stage Learning Model
+This model is adapted from the [African Leadership University Learning Model](https://alueducation.com/about/our-learning-model/) which aims to take learners through discovery of new concepts, self-, peer- and facilitated-group learning. Below is a breakdown of this approach:
  1. **Discovery stage:** this is where a question/problem is introduced. For instance, the class will start out with a question about “How many hospitals in Dar es Salaam provide dialysis treatment?”. The facilitator and the student will discuss various methods to answer this question including assessing whether this is the right question to ask, what datasets to use, where to find and get this data etc. Discovery stage will involve in-class sessions which could be half day or full-day workshops depending on the specific concept being presented.
  - **Self-learning stage:** students are given links to relevant resources and guided questions to explore the topic further. The goal is to have students spend time exploring solutions on their own.  
  - Peer-learning stage: students will work in groups of 3 - 5 to share discoveries in tackling specific questions. This creates an opportunity for students who have been able to tackle the challenge explain their learning, and also create an opportunity for students still working through challenges to have questions answered and concepts explained.
