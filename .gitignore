@@ -1,2 +1,5 @@
 *.docx
 *.doc
+.Rproj.user
+*/demo/
+*.Rhistory
