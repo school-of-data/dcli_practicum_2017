@@ -17,11 +17,11 @@
 ## Session Plan
 
 Duration | Activity | Resources | Responsible
---------- | ---------- | -------- | ---------
+------------ | ---------- | -------- | ---------
 1:00 – 1:20 pm | Overview of Practicum | Learning plan on GitHub | Facilitator
 1:20 – 1:40 pm | Data pipeline | School of Data pipeline | All
 1:40 – 2:00 pm | Setting up programming environment |Laptop, R, Python, Rstudio, Jupyter Notebook | All
-2:00 - 2:20 pm | The data pipeline with Python | Python, Anaconda, Jupyter Notebook | Facilitator
+2:00 – 2:20 pm | The data pipeline with Python | Python, Anaconda, Jupyter Notebook | Facilitator
 2:20 – 2:40 pm | The data pipeline with R | R, Rstudio | Facilitator
 2:40 – 2:50 pm | Feedback on Python and R process | Post-Its | All
 2:50 – 3:00 pm | Break | Refreshments | All
