@@ -43,11 +43,13 @@ Date | Session Number | Description
 
 
 ## Software Installations
-- R Programming Language
-- RStudio Integrated Development Environment
-- Anaconda Python Distribution
-- Tabula
-- Open Refine
+- [R Programming Language](https://cran.r-project.org/)
+- [RStudio Integrated Development Environment](https://www.rstudio.com/)
+- [Google Chrome Browser](https://www.google.com/chrome/browser/desktop/index.html)
+- [Tabula](http://tabula.technology/)
+- [Open Refine](http://openrefine.org/index.html)
+- [Anaconda Python Distribution](https://docs.continuum.io/anaconda/install/)
+
 
 
 ## Reference Books
