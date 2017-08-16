@@ -10,6 +10,7 @@ Four Washington Mandela Fellows have been selected to take part in this training
 - [Training Details](#training-details)
 - [Learning Model](#learning-model)
 - [Session Outline](#session-outline)
+- [Software Installations](#software-installations)
 - [Reference Books](#reference-books)
 - [Online Resources](#online-resources)
 
@@ -39,6 +40,14 @@ Date | Session Number | Description
 17-Aug-17 | Session 2 | [Data Scraping](/session2)
 22-Aug-17 | Session 3 | Data Validation & Cleaning
 29-Aug-17 | Session 4 | Data Visualisation
+
+
+## Software Installations
+- R Programming Language
+- RStudio Integrated Development Environment
+- Anaconda Python Distribution
+- Tabula
+- Open Refine
 
 
 ## Reference Books
