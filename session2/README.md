@@ -17,9 +17,9 @@
 
 Duration | Activity | Resources | Responsible
 --------- | ---------------| ----------| ----------
-1:00 – 1:15 pm | Recap of Session 1 concepts | Lab 1 | All
-1:15 – 1:40 pm| Exposure to data scraping| Data scraping slides | Facilitator
-1:40 – 2:00 pm | Setting up programming environment | Tabula, Chrome Extension, Webscraper.io,BeautifulSoup4 |Fellows
+1:00 – 1:15 pm | Recap of Session 1 concepts | [Data Carpentry Intro to R lesson](http://www.datacarpentry.org/R-ecology-lesson/01-intro-to-r.html) | All
+1:15 – 1:40 pm| Exposure to data scraping| [Introduction to Data Scraping slides](https://docs.google.com/presentation/d/19P17ntS0ZwkcQJvs5DllnirfpOX1dI0N0NlBXuN3skE/edit?usp=sharing) | Facilitator
+1:40 – 2:00 pm | Setting up programming environment | Tabula, Chrome Extension, Webscraper.io, rvest |Fellows
 2:00 – 2:20 pm | PDF scraping with Tabula | PDF data table, Tabula |Facilitator
 2:20 – 2:30 pm | Web Scraping with Chrome Scraper Extension | Chrome, Chrome Scraper Extension | Facilitator
 2:30 – 2:50 pm | Web Scraping with Webscraper.io | Chrome, WebScraper.io | Facilitator
