@@ -21,7 +21,7 @@ Duration | Activity | Resources | Responsible
 1:15 – 1:40 pm| Exposure to data scraping| [Introduction to Data Scraping slides](https://docs.google.com/presentation/d/19P17ntS0ZwkcQJvs5DllnirfpOX1dI0N0NlBXuN3skE/edit?usp=sharing) | Facilitator
 1:40 – 2:00 pm | Setting up programming environment | [Tabula](http://tabula.technology/), Chrome Scraper Extension, Webscraper.io, *rvest* |Fellows
 2:00 – 2:20 pm | PDF scraping with Tabula | [School of Data PDF Scraping Tutorial](https://schoolofdata.org/extracting-data-from-pdfs/) |Facilitator
-2:20 – 2:50 pm | PDF Scraping Lab | [School of Data PDF Scraping Tutorial](https://schoolofdata.org/extracting-data-from-pdfs/), [2014-2015 TEITI Report](./FINAl-TEITI-2014-2015-Report.pdf) |Fellows
+2:20 – 2:50 pm | PDF Scraping Lab | [School of Data PDF Scraping Tutorial](https://schoolofdata.org/extracting-data-from-pdfs/), [2014-2015 TEITI Report](http://www.teiti.or.tz/wp-content/uploads/2017/06/FINAL-TEITI-2014-15-Report.pdf) |Fellows
 2:20 – 2:30 pm | Web Scraping with Chrome Scraper Extension | Chrome, Chrome Scraper Extension | Facilitator
 2:30 – 2:50 pm | Web Scraping with Webscraper.io | Chrome, WebScraper.io | Facilitator
 2:50 – 3:00 pm | Break | Restroom | All
