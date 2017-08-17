@@ -6,7 +6,7 @@ The DCLI Professional Practicum training is a four session programme organised b
 Four Washington Mandela Fellows have been selected to take part in this training and will  each be embedded across [Development Gateway](http://www.developmentgateway.org/), [Millennium Challenge Corporation (MCC)](https://www.mcc.gov/) and [Global Integrity](https://www.globalintegrity.org/) offices in Washington D.C. The aim of the data component of the practicum is to enhance the skills of the selected fellows to understand and  work with data on a technical level when they return to their home organisations. Current fellows are from Cote d’Ivoire and Tanzania working in sectors spanning the government and civil society space. They possess varying levels of data skills and interests which should be managed through the training. Fellows have already been developing a question of interest throughout their programme which could serve as a channel to build data skills.  There is an option to also provide fellows with brief assignments and readings outside the 3-4 hours allocated for in-person training.
 
 
-## Overview
+## Content
 - [Training Details](#training-details)
 - [Learning Model](#learning-model)
 - [Session Outline](#session-outline)
