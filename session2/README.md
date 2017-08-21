@@ -11,16 +11,16 @@
 - Time: 1 – 5 pm
 
 #### Objectives
-- [ ] Introduce learners to data scraping, the different types that exist and why it is an important skill in the data process.
-- [ ] Explore techniques and tools used in the different types of data scraping. 	
-- [ ] Learn best practices for data scraping.
-- [ ] Learn to work with data in R.
+- [x] Introduce learners to data scraping, the different types that exist and why it is an important skill in the data process.
+- [x] Explore techniques and tools used in the different types of data scraping. 	
+- [x] Learn best practices for data scraping.
+- [x] Learn to work with data in R.
 
 #### Outcomes
-- [ ] Each learner understands data scraping and why it is an important skill in the data process.
-- [ ] Each learner can scrape data from a PDF using Tabula.
-- [ ] Each learner can scrape a webpage with a Chrome extension.
-- [ ] Each learner can import a dataset into R and perform basic operations on data.
+- [x] Each learner understands data scraping and why it is an important skill in the data process.
+- [x] Each learner can scrape data from a PDF using Tabula.
+- [x] Each learner can scrape a webpage with a Chrome extension.
+- [x] Each learner can import a dataset into R and perform basic operations on data.
 
 
 ## Session Outline
@@ -54,3 +54,5 @@ Duration | Activity | Resources | Responsible
 2. Discuss any questions you have with the facilitator. **[10 mins]**
 
 ## Homework
+1. **Complete the [Data Carpentry R Lesson 2 - Starting with Data](http://www.datacarpentry.org/R-ecology-lesson/02-starting-with-data.html)**:  this will build your skills in R to effective import data in R and perform basic operations on it.
+2.  Download and install the [Open Refine](http://openrefine.org/download.html) application which we will be using in session 3 for data verification and cleaning.

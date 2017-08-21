@@ -30,7 +30,7 @@ Duration | Activity | Resources | Responsible
 4:45 – 5:00 pm | Review and Closing | Learning plan | Facilitator
 
 ## Homework
-- **Complete the [Data Carpentry Intro to R lesson](http://www.datacarpentry.org/R-ecology-lesson/01-intro-to-r.html):** this to make you familiar wit the R syntax necessary to work with data in future sessions. Try out each of the syntax and concepts in RStudio and make notes of anything you have questions about.
+- **Complete the [Data Carpentry Intro to R lesson](http://www.datacarpentry.org/R-ecology-lesson/01-intro-to-r.html):** this is to make you familiar with the R syntax necessary to work with data in future sessions. Try out each of the syntax and concepts in RStudio and make notes of anything you have questions about.
 - **Complete PDF Scraping Reading and Exercise:** please read this [School of Data PDF Scraping tutorial](https://schoolofdata.org/extracting-data-from-pdfs/)  and extract the [example pdf](https://schoolofdata.org/files/2015/09/sample-data-for-scraping.pdf) into **machine-readable** format by the start of session 2. You will have to download and install [Tabula](http://tabula.technology/) to complete this exercise.
 - **Install [Google Chrome Browser](https://www.google.com/chrome/browser/desktop/index.html):** we will be doing web scraping with a couple of Google Chrome extensions in session 2. Please ensure that you have the Google Chrome browser installed at the beginning of the session.
 
