@@ -55,4 +55,4 @@ Duration | Activity | Resources | Responsible
 
 ## Homework
 1. **Complete the [Data Carpentry R Lesson 2 - Starting with Data](http://www.datacarpentry.org/R-ecology-lesson/02-starting-with-data.html)**:  this will build your skills in R to effective import data in R and perform basic operations on it.
-2.  Download and install the [Open Refine](http://openrefine.org/download.html) application which we will be using in session 3 for data verification and cleaning.
+2. **Download and install [Open Refine](http://openrefine.org/download.html)**: this application will be used in session 3 for data verification and cleaning.
