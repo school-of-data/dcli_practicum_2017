@@ -38,7 +38,7 @@ Date | Session Number | Description
 ------ | ------------- | -----------
 15-Aug-17 | Session 1 | [Data Pipeline & Introduction to Programming](/session1)
 17-Aug-17 | Session 2 | [Data Scraping](/session2)
-22-Aug-17 | Session 3 | Data Validation & Cleaning
+22-Aug-17 | Session 3 | [Data Verification & Cleaning](/session3)
 29-Aug-17 | Session 4 | Data Visualisation
 
 
