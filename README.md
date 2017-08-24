@@ -1,10 +1,7 @@
 <img src="/images/scoda_logo.png" width=300/>
 
 # DCLI Professional Practicum
-The DCLI Professional Practicum training is a four session programme organised by [IREX](https://irex.org/) over the course of 3 weeks to provide fellows with foundational technical skills to effectively work with data. The training is designed and delivered by [School of Data](https://www.schoolofdata.org).
-
-Four Washington Mandela Fellows have been selected to take part in this training and will  each be embedded across [Development Gateway](http://www.developmentgateway.org/), [Millennium Challenge Corporation (MCC)](https://www.mcc.gov/) and [Global Integrity](https://www.globalintegrity.org/) offices in Washington D.C. The aim of the data component of the practicum is to enhance the skills of the selected fellows to understand and  work with data on a technical level when they return to their home organisations. Current fellows are from Cote d’Ivoire and Tanzania working in sectors spanning the government and civil society space. They possess varying levels of data skills and interests which should be managed through the training. Fellows have already been developing a question of interest throughout their programme which could serve as a channel to build data skills.  There is an option to also provide fellows with brief assignments and readings outside the 3-4 hours allocated for in-person training.
-
+The DCLI Professional Practicum is funded by the [Data Collaborative for Local Impact](https://www.mcc.gov/initiatives/initiative/mcc-pepfar-partnership) (DCLI) program, and specifically administered through Data Zetu.   The practicum aims to expose selected fellows to the use of data for decision making through individual program work, work with a host institution that is a leader in data analytics and evidence-based decision making, a joint project and structured training.   The training is a four session programme over the course of 3 weeks designed and delivered by [School of Data](https://schoolofdata.org/) to provide fellows with foundational technical skills to effectively work with data.
 
 ## Content
 - [Training Details](#training-details)
