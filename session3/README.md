@@ -74,4 +74,3 @@ Duration | Activity | Resources | Responsible
 ### Lab 3: R Data Pipeline (Define, Find, Get, Verify, Clean) (45 mins)
 1. Select a question or interest. Be as specific as possible. Eg: Regions in Tanzania near the coast have a high incidence of water-borne diseases.
 2. Follow the data pipeline to produce a clean or tidy dataset ready for analysis.
-3.
